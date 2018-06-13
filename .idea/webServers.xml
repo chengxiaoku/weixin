@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="facdb0be-e421-4fe1-92f5-2426393094c3" name="weixin" url="http://123.207.218.195">
+        <fileTransfer host="123.207.218.195" port="22" rootFolder="/home/www/weixin" accessType="SFTP" password="dfe9df9ddf9bdf9adf9edf98df9fdf92df98df9a" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
